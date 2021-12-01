@@ -64,9 +64,6 @@ ___
 
 Lstm trained models are stored in *trainingmodel* file. 
 
-## Data
-
-All the data used for this algorithm are from *Anthony Stancombe, Abdulrahman Al-Qadami, Konstanty Bialkowski, and Beadaa Mohammed.* The University of Queensland.
 
 ## Contact
 
